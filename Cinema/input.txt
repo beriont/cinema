@@ -1,0 +1,49 @@
+﻿ADDR 1 S
+ADDR 2 S
+ADDR 3 S
+ADDR 4 L
+ADDR 5 V
+ADSE 1 A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 C1 C2 C3 C4 C5 D1 D2 D3 D4 D5
+ADSE 2 A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 C1 C2 C3 C4 C5 D1 D2 D3 D4 D5
+ADSE 3 A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 C1 C2 C3 C4 C5 D1 D2 D3 D4 D5
+ADSE 4 A1 A2 A3 A4 A5 A6 A7 A8 B1 B2 B3 B4 B5 B6 B7 B8 C1 C2 C3 C4 C5 C6 C7 C8 D1 D2 D3 D4 D5 D6 D7 D8 E1 E2 E3 E4 E5 E6 E7 E8
+ADSE 5 A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 C1 C2 C3 C4 C5
+ADDM Transformers 130
+ADDM The_Little_Mermaid 120
+ADDM Guardians_of_the_Galaxy 159
+ADDM The_Fast_and_the_Furious 141
+ADSH Transformers 124211 2023.06.10. 13:30 4 2400
+ADSH Transformers 124301 2023.06.10. 13:30 5 7000
+ADSH Transformers 124212 2023.06.10. 16:30 4 2400
+ADSH The_Little_Mermaid 132016 2023.06.10. 10:00 1 2400
+ADSH The_Little_Mermaid 132018 2023.06.10. 15:00 1 2400
+ADSH Guardians_of_the_Galaxy 126034 2023.06.10. 14:00 2 2400
+ADSH Guardians_of_the_Galaxy 126310 2023.06.10. 16:30 5 7000
+ADSH The_Fast_and_the_Furious 142043 2023.06.10. 15:00 3 2400
+ADSH The_Fast_and_the_Furious 142340 2023.06.10. 19:45 5 7000
+ADAV Jani Ádám Erika Ella Nati Péter Tamara Xavér Berni Lilla
+ADSV Ákos Lili Feri Dénes Vera Ibolya Gyöngyi Réka Bence Szabi
+ADCV Rebeka Nándi Gergő Édua Örs Vencel Kincső Amália
+ADPV Rezső Mária Béla Piroska
+ADMV Csaba Borbála Viktória Olivér Noémi Franciska Viktor Milán Laci Tibi
+TRES Csaba 126310 5/A3
+TRES Borbála 126310 5/A4
+TRES Vencel 126310 5/A5
+TPAY Ádám 126310 5/B1
+TPAY Erika 126310 5/B2
+TPAY Ella 126310 5/B3
+TPAY Nati 126310 5/B4
+TPAY Berni 126310 5/B5
+TRES Dénes 126310 5/C3
+TRPA Vencel 126310 5/A5
+TRPA Csaba 126310 5/A3
+TRPA Borbála 126310 5/A4
+TRES Xavér 142043 3/B4
+TRES Lilla 142043 3/B5
+TRES Olivér 142043 3/A1
+TRES Ákos 142043 3/A2
+TRES Szabi 142043 3/A5
+TRPA Xavér 142043 3/B4
+TRPA Lilla 142043 3/B5
+TPAY Ibolya 142043 3/B1
+TPAY Tamara 142043 3/B2
